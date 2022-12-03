@@ -1,1 +1,1 @@
-thinter
+tkinter
